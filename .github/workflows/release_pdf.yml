@@ -22,8 +22,7 @@ jobs:
                     separator='<div style="page-break-after: always"></div>'
                     for file in $(find . | grep .md | grep -v ./README.md | sort -fg); do
                         jq -Rs . < $file > json.blob
-                        html= htmlspecialchars($(cat json.blob));
-                        json="{\"text\":html}";
+                        json="{\"text\":$(cat json.blob)}";
                         echo $json > json.blob
                         curl -u "${{ secrets.GITHUB_TOKEN }}" -X POST -H "Accept: application/vnd.github.v3+json" --data "@json.blob" https://api.github.com/markdown >> "$file.html"
                         echo "$(cat $file.html)" >> The-Standard-French.html
