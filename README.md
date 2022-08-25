@@ -4,7 +4,7 @@ Discutez avec nous ici:
 [![Discord](https://discord.com/api/guilds/934130100008538142/widget.png?style=banner2)](https://discord.gg/vdPZ7hS52X)
 
 - [0 Introduction](https://github.com/hassanhabib/The-Standard-French/blob/master/0.%20Introduction/0.%20Introduction.md)
-  - [0.0 La théorie](https://github.com/hassanhabib/The-Standard-French/blob/master/0.%20Introduction/0.0%20La%20theorie.md#00-la-theorie)
+  - [0.0 La théorie](https://github.com/hassanhabib/The-Standard-French/blob/master/0.%20Introduction/0.0%20La%20théorie.md#00-la-théorie)
     - [0.0.0 Introduction](https://github.com/hassanhabib/The-Standard-French/blob/master/0.%20Introduction/0.0%20The%20Theory.md#000-introduction)
     - [0.0.1 Trouver des réponses](https://github.com/hassanhabib/The-Standard-French/blob/master/0.%20Introduction/0.0%20The%20Theory.md#001-finding-answers)
     - [0.0.2 Tri-Nature](https://github.com/hassanhabib/The-Standard-French/blob/master/0.%20Introduction/0.0%20The%20Theory.md#002-tri-nature)
